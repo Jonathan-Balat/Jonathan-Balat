@@ -11,7 +11,8 @@
   <p>
    I’m a <strong>Firmware Engineer</strong> | <strong>Embedded Software Engineer</strong> and anything adjacent to those roles that is focused on developing firmware, UI/UX desktop clients, and automation frameworks.
    My experience, for nearly seven years, revolve around industrial, power, and consumer electronics markets.
-   I enjoy obsessing over solving hardware-software integration constraints and shipping clean, maintainable code.
+   
+   I enjoy obsessing over solving hardware-software integration constraints and shipping clean, maintainable code. 
    After all, engineering is all about tinkering and obsessing over solving a problem -- just going to need to pair a cup of coffee with it.
   </p>
 </section>

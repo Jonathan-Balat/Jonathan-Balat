@@ -15,4 +15,6 @@
    I enjoy obsessing over solving hardware-software integration constraints and shipping clean, maintainable code. 
    After all, engineering is all about tinkering and obsessing over solving a problem -- just going to need to pair a cup of coffee with it.
   </p>
+
+  <p>My <a href="https://jonathan-balat.github.io/WebCV/">WebCV<a> is still under development but will be deployed before the end of year. In the meantime, you can reach out to me through Linkedin or Email with the links above. See ya!</p>
 </section>
